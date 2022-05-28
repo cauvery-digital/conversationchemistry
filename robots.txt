@@ -1,7 +1,7 @@
-User-agent: Mediapartners-Google
-Disallow: 
-
 User-agent: *
-Allow: /
-
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /index.php
+Disallow: /index (1).php
 Sitemap: https://conversationchemistry.netlify.app/sitemap.xml
+
