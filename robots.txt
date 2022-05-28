@@ -2,6 +2,6 @@ User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
 Disallow: /index.php
-Disallow: /index (1).php
+Disallow: /index-1.php
 Sitemap: https://conversationchemistry.netlify.app/sitemap.xml
 
